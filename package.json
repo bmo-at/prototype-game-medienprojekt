@@ -1,0 +1,10 @@
+{
+  "name": "Prototype-game",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "beemo-at <jan-robin@aumann.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}

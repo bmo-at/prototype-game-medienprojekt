@@ -5,6 +5,7 @@
   "author": "beemo-at <jan-robin@aumann.org>",
   "license": "MIT",
   "devDependencies": {
+    "phaser": "^3.20.0",
     "typescript": "^3.6.4"
   }
 }

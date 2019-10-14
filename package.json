@@ -2,7 +2,7 @@
   "name": "Prototype-game",
   "version": "1.0.0",
   "main": "app.js",
-  "author": "beemo-at <jan-robin@aumann.org>",
+  "author": "Jan-Robin Aumann",
   "license": "MIT",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
@@ -12,5 +12,9 @@
     "webpack": "^4.41.1",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
+  },
+  "scripts": { 
+    "build": "webpack", 
+    "dev": "webpack-dev-server" 
   }
 }
